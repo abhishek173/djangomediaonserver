@@ -20,8 +20,8 @@ A Django project demonstrating how to efficiently manage and serve user-uploaded
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/abhishek173/djangomediaonserver.git
+cd djangomediaonserver
 ```
 
 ### 2️⃣ Set Up Virtual Environment
